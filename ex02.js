@@ -11,4 +11,4 @@
 // console.log('====== RESUMO DO PEDIDO =====')
 // console.log(`Cliente: ${nome}`)
 // console.log(`Prato Escolhido: ${nomeDoPrato}`)
-// console.log(`Valor: ${valorDoPrato}`)
+// console.log(`Valor: ${valorDoPrato}`) 
