@@ -1,14 +1,14 @@
-// const readline = require ('readline-sync')
+const readline = require ('readline-sync')
 
-// let notaFinal = 7 
+let notaFinal = 7 
 
-// let notaMinima = readline.questionFloat('Informe sua nota:')
+let notaMinima = readline.questionFloat('Informe sua nota:')
 
-// console.log('======== RESULTADO ========')
+console.log('======== RESULTADO ========')
 
-// if(notaMinima >= notaFinal){
-//     console.log('Você foi aprovado')
-// }else{
-//     console.log('Você nao foi aprovado')
+if(notaMinima >= notaFinal){
+    console.log('Você foi aprovado')
+}else{
+    console.log('Você nao foi aprovado')
 
-// }
+}
