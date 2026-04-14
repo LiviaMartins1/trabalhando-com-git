@@ -1,8 +1,8 @@
 // const readline = require('readline-sync')
 
-// let nome = readline.question('Digite seu nome: ')
+let nome = readline.question('Digite seu nome: ')
 
-// console.log(`Seu nome é: ${nome}`)
+console.log(`Seu nome é: ${nome}`)
 
 
 //----------------------------------------------//
